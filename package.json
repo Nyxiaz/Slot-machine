@@ -1,0 +1,19 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyxiaz/Slot-machine.git"
+  },
+  "author": "Nyxiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyxiaz/Slot-machine/issues"
+  },
+  "homepage": "https://github.com/Nyxiaz/Slot-machine#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nyxiaz/Slot-machine/issues"
   },
-  "homepage": "https://github.com/Nyxiaz/Slot-machine#readme"
+  "homepage": "https://github.com/Nyxiaz/Slot-machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
